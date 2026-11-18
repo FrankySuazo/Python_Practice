@@ -22,3 +22,4 @@ print(f"USD: ${usd:.2f}")
 print(f"EUR: €{eur:.2f}")
 print(f"GBP: £{gbp:.2f}")
 print(f"JPY: ¥{jpy:.2f}")
+
